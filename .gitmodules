@@ -1,0 +1,7 @@
+[submodule "grgrie/themes/ananke"]
+	path = grgrie/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "grgrie/public"]
+	path = grgrie/public
+	url = https://github.com/GrGrie/grgrie.github.io.git
+	branch = main

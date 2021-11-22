@@ -1,0 +1,4 @@
+baseURL = "http://grgrie.github.com/"
+languageCode = "en-us"
+title = "GrGrie new site :)"
+theme = "ananke"
