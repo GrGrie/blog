@@ -16,11 +16,12 @@ draft: false
 
 # Полезные ссылки
 
-https://elibrary.ru/GrGrie
-https://scholar.google.com/GrGrie
-https://orcid.org/GrGrie
-https://www.mendeley.com/GrGrie
-https://www.researchgate.net/GrGrie
-https://www.academia.edu/GrGrie
-https://arxiv.org/GrGrie
-https://github.com/GrGrie
+[![eLibrary](lib.ulstu.ru/images/icons/elibrary.png)](https://elibrary.ru/)
+[![Scholar Google](https://leonardjason.files.wordpress.com/2016/02/google-scholar-logo.png)](https://scholar.google.com/)
+[![Orcid](https://library.bc.edu/newsletter/wp-content/uploads/2018/09/orcid-logo-square.png)](https://orcid.org/)
+[![Mendeley](https://www.iconninja.com/files/1012/68/884/mendeley-black-icon.png)](https://www.mendeley.com/)
+[![ResearchGate](https://vassil.vassilev.info/assets/images/research-gate-logo.png)](https://www.researchgate.net/)
+[![Academia edu](https://www.kavehfarrokh.com/in23/uploads/2014/12/academia-edu.png)](https://www.academia.edu/)
+[![Arxiv](https://static.thenounproject.com/png/21033-200.png)](https://arxiv.org/)
+[![GitHub](https://d33wubrfki0l68.cloudfront.net/3d35087615fa8c495378a7d5ecb90ced119d8c4f/7d998/assets/images/github.png)](https://github.com/GrGrie)
+

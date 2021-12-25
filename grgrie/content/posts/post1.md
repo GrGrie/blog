@@ -1,6 +1,6 @@
 ---
-title: "My first post"
+title: "Мой первый пост"
 date: 2021-11-22T18:40:36+03:00
 ---
 
-Hello, this is my first post here!
+Здравствуйте, я только осваиваю Hugo и это мой первый пост в личном блоге

@@ -2,3 +2,15 @@ baseURL = "https://grgrie.github.io/"
 languageCode = "en-us"
 title = "Gregory Grechkin website"
 theme = "ananke"
+copyright = "Website by GrGrie"
+defaultContentLanguage = 'ru'
+[languages]
+ [languages.ru]
+  languagedirection = 'rtl'
+  title = 'Добро пожаловать на мой сайт'
+  languageName = 'Russian'
+  weight = 1
+ [languages.en]
+  title = 'Welcome to my personal blog website'
+  languageName = 'English'
+  weight = 2		
